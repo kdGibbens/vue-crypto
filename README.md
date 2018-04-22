@@ -1,6 +1,8 @@
 # vue-crypto
 
 > Simple crypto price index with vue
+> Based off https://youtu.be/S0Zznlv1qnI
+> added Bootstrap 4 and select of USD or EURO
 
 ## Build Setup
 
