@@ -2,7 +2,7 @@
   "name": "vue-crypto",
   "version": "1.0.0",
   "description": "Simple crypto price index with vue",
-  "author": "ScooterGibby <gibbenskd@gmail.com>",
+  "author": "Kelly Gibbens <gibbenskd@gmail.com>",
   "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
